@@ -40,7 +40,7 @@ python http_honeypot.py --port 8080 --logfile /var/log/honeypot.jsonl --name "my
 
 | Flag | Default | Description |
 |------|---------|-------------|
-| `-p, --port` | 8080 | Port to listen on |
+| `-p, --port` | 80,8080, whatever port you would like | Port to listen on |
 | `-l, --logfile` | honeypot.jsonl | Path to log file |
 | `-n, --name` | default | Honeypot identifier for logs |
 
