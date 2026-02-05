@@ -1,5 +1,5 @@
 # HTTP-Honeypot-Python
-Basic HTTP Honeypot written in Python
+Basic HTTP Honeypot written in Python.
 
 # Simple HTTP Honeypot
 
@@ -122,6 +122,7 @@ sudo systemctl start honeypot
 ## Firewall
 
 Make sure your port is open:
+Can set to whatever port you would like
 
 ```bash
 # UFW
