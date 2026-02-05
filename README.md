@@ -1,10 +1,6 @@
 # HTTP-Honeypot-Python
 Basic HTTP Honeypot written in Python.
 
-# Simple HTTP Honeypot
-
-A lightweight Python honeypot that logs all incoming HTTP requests to a JSONL file for threat intelligence and monitoring.
-
 ## Features
 
 - Captures all HTTP methods (GET, POST, PUT, DELETE, HEAD, OPTIONS)
